@@ -24,7 +24,7 @@ Execute the program
     </head>
     <body>
 <table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
-<caption><b>SLOT TIME TABLE - Aakashraj M (212222100002)</b></caption>
+<caption><b>SLOT TIME TABLE - JAYAVARTHAN-P (212222100015)</b></caption>
 <tr align="center">
 <th bgcolor="yellow">Day/Time</th>
 <th bgcolor="yellow">8-10</th>
