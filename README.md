@@ -123,7 +123,8 @@ Execute the program
 </html>
 ```
 ## OUPUT:
-![EX 3 SLOT](https://github.com/JAYAVARTHAN-P/slot/assets/121369281/699e7d40-1c0b-449d-8828-5da2ebabe151)
+![EX 3 SLOT](https://github.com/JAYAVARTHAN-P/slot/assets/121369281/c7787f4e-394a-4441-9f46-cb1b40919eba)
+
 
 ## RESULT:
 Timetable has created Successfully.
